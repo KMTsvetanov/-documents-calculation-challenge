@@ -1,0 +1,4 @@
+# Docker project generated files to ignore
+tmp
+.idea
+!mysql/.gitkeep
