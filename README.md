@@ -5,7 +5,7 @@ docker-compose build
 
 docker-compose up -d
 
-docker exec -it api-no-framework-phpunit_phpfpm_1 /bin/bash
+docker exec -it clippings_phpfpm_1 /bin/bash
 
 cd web
 
